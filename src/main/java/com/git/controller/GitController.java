@@ -14,4 +14,8 @@ public class GitController {
 		return 65.5;
 	}
 
+	public int test4() {
+		return 10;
+	}
+
 }
